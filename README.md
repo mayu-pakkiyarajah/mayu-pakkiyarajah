@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mayu-pakkiyarajah](https://github.com/mayu-pakkiyarajah)
+- 👨‍💻 All of my projects are available at [mayu-pakkiyarajah.github.io](https://github.com/mayu-pakkiyarajah)
 
 - 💬 Ask me about **Java, C#, JavaScript, TypeScript**
 
