@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayu-pakkiyarajah&label=Profile%20views&color=0e75b6&style=flat" alt="mayu-pakkiyarajah" /> </p>
 
-- 🌱 Full Stack Developer **Angular, Spring Boot**
+- I’m currently learning **Golang**
+  
+- Full Stack Developer **Angular, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [mayu-pakkiyarajah.github.io](https://github.com/mayu-pakkiyarajah)
+- All of my projects are available at [mayu-pakkiyarajah.github.io](https://github.com/mayu-pakkiyarajah)
 
-- 💬 Ask me about **Java, JavaScript, TypeScript**
+- Ask me about **Java, JavaScript, TypeScript**
 
-- 📫 How to reach me **mayuravelp@gmail.com**
+- How to reach me **mayuravelp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
