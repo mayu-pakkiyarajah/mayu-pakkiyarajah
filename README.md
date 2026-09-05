@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayuravel!</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayu-pakkiyarajah&color=0e75b6&style=flat" alt="mayu-pakkiyarajah" /> </p>
 
